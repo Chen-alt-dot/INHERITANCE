@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\bin\Debug\Dumdum_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\bin\Debug\Dumdum_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\bin\Debug\Dumdum_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\obj\Debug\Dumdum_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\obj\Debug\Dumdum_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\obj\Debug\Dumdum_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\obj\Debug\Dumdum_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\Dumdum_SimpleInheritance\obj\Debug\Dumdum_SimpleInheritance.exe.config
