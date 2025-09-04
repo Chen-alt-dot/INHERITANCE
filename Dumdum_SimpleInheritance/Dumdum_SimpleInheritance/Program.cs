@@ -10,6 +10,7 @@ namespace Dumdum_SimpleInheritance
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("----Regular Student----");
             // Create instances of Basic Info and Regular Student
             Student student1 = new Student();
             student1.Name = "Christian Benedict P. Dumdum";
@@ -21,6 +22,7 @@ namespace Dumdum_SimpleInheritance
 
             Console.WriteLine("");
 
+            Console.WriteLine("----Irregular Student----");
             //Create instances of Basic Info and Irregular Student
             IrregularStudent irregularstudent1 = new IrregularStudent();
             irregularstudent1.Name = "Gian Marty Pepito";
