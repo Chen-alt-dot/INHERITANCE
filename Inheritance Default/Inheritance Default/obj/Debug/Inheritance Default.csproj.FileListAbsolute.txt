@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\bin\Debug\Inheritance Default.exe.config
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\bin\Debug\Inheritance Default.exe
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\bin\Debug\Inheritance Default.pdb
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\obj\Debug\Inheritance Default.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\obj\Debug\Inheritance Default.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\obj\Debug\Inheritance Default.exe
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\obj\Debug\Inheritance Default.pdb
+C:\Users\ACT-STUDENT\Desktop\Inheritance Default Constructor\Inheritance Default\Inheritance Default\obj\Debug\Inheritance Default.exe.config
