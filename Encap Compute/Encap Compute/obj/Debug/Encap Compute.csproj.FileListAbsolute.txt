@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\bin\Debug\Encap Compute.exe.config
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\bin\Debug\Encap Compute.exe
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\bin\Debug\Encap Compute.pdb
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\obj\Debug\Encap Compute.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\obj\Debug\Encap Compute.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\obj\Debug\Encap Compute.exe
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\obj\Debug\Encap Compute.pdb
+C:\Users\ACT-STUDENT\Desktop\Encap Compute\Encap Compute\Encap Compute\obj\Debug\Encap Compute.exe.config
